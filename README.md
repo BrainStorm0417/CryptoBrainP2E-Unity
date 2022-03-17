@@ -1,4 +1,4 @@
-# `ethereum-unity-boilerplate`
+# `Unity Play to Earn Game Example`
 
 *IMPORTANT, USE OF SPEEDY NODE IS NO LONGER REQUIRED*
 
